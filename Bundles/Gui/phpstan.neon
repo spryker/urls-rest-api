@@ -1,4 +1,0 @@
-parameters:
-    ignoreErrors:
-    - '#Function twig_escape_filter not found.#'
-    - '#Class Symfony\\Bridge\\Twig\\Form\\TwigRenderer not found.#'

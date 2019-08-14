@@ -1,5 +1,0 @@
-{
-  "include": {
-    "UuidBehavior": "Used to generate UUIDs for entities."
-  }
-}

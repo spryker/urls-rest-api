@@ -1,7 +1,0 @@
-parameters:
-    dynamicConstantNames:
-        - APPLICATION
-        - APPLICATION_ENV
-        - APPLICATION_STORE
-    ignoreErrors:
-    - '#Cannot assign offset mixed to string.#'
